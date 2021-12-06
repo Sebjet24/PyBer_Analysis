@@ -7,7 +7,6 @@ V. Isualize has assigned me and Omar a new mission. We'll generate a summary Dat
 
 ## Results:
 
-#Quick facts by city type, seen in the image below our facts
 - Rural cities has the least amount of drivers, rides and total fares.
 - Urban cities have the most amount of drivers, rides and total fares.
 - Suburban cities are in the middle having the 2nd most drivers, rides and total fares.
@@ -20,7 +19,7 @@ V. Isualize has assigned me and Omar a new mission. We'll generate a summary Dat
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/91230277/144785462-efbab08c-8708-4c23-9b8b-b7d4521b2a67.png)
 
-##Summary
+## Summary
 
 From our data we are able to tell what kind of fares will be commanded based on what city type the passenger is catching a ride in. Although we didn't explore every individual city we still have a great grasp on what fares will look like from week to week based on city type which is enough information decide on rates that will need to be charged after we can classify what type of city the consumer lives in. In conclusion we can effectively say that a rural area will command a higher fare because there are fewer workers that will come to this area, the travel time and distance is most likely longer making the average fare per ride & driver the most out of all city types.
 
