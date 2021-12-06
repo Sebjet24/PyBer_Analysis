@@ -14,11 +14,11 @@ V. Isualize has assigned me and Omar a new mission. We'll generate a summary Dat
 - Although Rural cities see the least amount of drivers,rides & fares the have the highest average of fare per ride and fare per driver.
 - Although the Urban cities command the most drivers, rides and fares they have the lowest average of fare per ride and fare per driver.
 
-<img width="629" alt="Screen Shot 2020-08-22 at 11 50 22 AM" src="https://user-images.githubusercontent.com/67278193/90960275-8c52e600-e46e-11ea-97c9-5b139e98ebe8.png">
+![Screenshot (44)](https://user-images.githubusercontent.com/91230277/144785398-03ee0931-f4de-4550-bbbc-35129b838c79.png)
 
 # Total Fare by city type chart between January & April of 2019
 
-<img width="634" alt="Screen Shot 2020-08-22 at 11 51 54 AM" src="https://user-images.githubusercontent.com/67278193/90960279-8f4dd680-e46e-11ea-8e04-f0205ba6c66d.png">
+![PyBer_fare_summary](https://user-images.githubusercontent.com/91230277/144785462-efbab08c-8708-4c23-9b8b-b7d4521b2a67.png)
 
 ##Summary
 
