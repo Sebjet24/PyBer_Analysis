@@ -10,8 +10,8 @@ V. Isualize has assigned me and Omar a new mission. We'll generate a summary Dat
 - The number of drivers, rides, and total fares are lowest in rural areas.
 - The number of drivers, rides, and total fares are highest in urban areas.
 - Suburban cities are in the middle having the 2nd most drivers, rides and total fares.
-- Although Rural cities see the least amount of drivers,rides & fares the have the highest average of fare per ride and fare per driver.
-- Although the Urban cities command the most drivers, rides and fares they have the lowest average of fare per ride and fare per driver.
+- Despite the fact that rural cities have the fewest drivers, trips, and fares, they have the highest average fare per ride and fare per driver.
+- Despite having the most drivers, trips, and fares, urban cities have the lowest average fare per ride and fare per driver.
 
 ![Screenshot (44)](https://user-images.githubusercontent.com/91230277/144785398-03ee0931-f4de-4550-bbbc-35129b838c79.png)
 
@@ -21,10 +21,10 @@ V. Isualize has assigned me and Omar a new mission. We'll generate a summary Dat
 
 ## Summary
 
-From our data we are able to tell what kind of fares will be commanded based on what city type the passenger is catching a ride in. Although we didn't explore every individual city we still have a great grasp on what fares will look like from week to week based on city type which is enough information decide on rates that will need to be charged after we can classify what type of city the consumer lives in. In conclusion we can effectively say that a rural area will command a higher fare because there are fewer workers that will come to this area, the travel time and distance is most likely longer making the average fare per ride & driver the most out of all city types.
-
 ### 3 Recommendations:
 
-1. Assign different city categories to your drivers based on the sorts of places they regularly operate in.
-2. In urban cities, charge more per mile because excursions are likely to be shorter and drivers do not make as much each trip.
-3. Calculate modest charge increases or decreases based on the number of riders in the city at the moment.
+From our data we are able to tell what kind of fares will be commanded based on what city type the passenger is catching a ride in. Here are three business suggestions to the CEO for addressing any disparities among the city types:
+
+ - Assign different city categories to your drivers based on the sorts of places they regularly operate in.
+ - In urban cities, charge more per mile because excursions are likely to be shorter and drivers do not make as much each trip.
+ - Calculate modest charge increases or decreases based on the number of riders in the city at the moment.
