@@ -7,8 +7,8 @@ V. Isualize has assigned me and Omar a new mission. We'll generate a summary Dat
 
 ## Results:
 
-- Rural cities has the least amount of drivers, rides and total fares.
-- Urban cities have the most amount of drivers, rides and total fares.
+- The number of drivers, rides, and total fares are lowest in rural areas.
+- The number of drivers, rides, and total fares are highest in urban areas.
 - Suburban cities are in the middle having the 2nd most drivers, rides and total fares.
 - Although Rural cities see the least amount of drivers,rides & fares the have the highest average of fare per ride and fare per driver.
 - Although the Urban cities command the most drivers, rides and fares they have the lowest average of fare per ride and fare per driver.
